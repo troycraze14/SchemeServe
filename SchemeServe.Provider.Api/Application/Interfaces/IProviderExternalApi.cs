@@ -1,6 +1,6 @@
 ﻿using SchemeServe.Provider.Api.Infrastructure.Services.Cqc.Models;
-using SchemeServe.Provider.Api.Application.Queries;
 using SchemeServe.Provider.Api.Domain.Models;
+using SchemeServe.Provider.Api.Application.Models;
 
 namespace SchemeServe.Provider.Api.Application.Interfaces;
 

@@ -1,5 +1,4 @@
-﻿
-namespace SchemeServe.Provider.Api.Application.Queries;
+﻿namespace SchemeServe.Provider.Api.Application.Models;
 
 public record GetProvidersQueryParameters(
     string[]? Constituency,

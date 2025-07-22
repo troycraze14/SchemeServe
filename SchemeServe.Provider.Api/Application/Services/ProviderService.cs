@@ -2,7 +2,6 @@
 using SchemeServe.Provider.Api.Application.Interfaces;
 using SchemeServe.Provider.Api.Application.Mappers;
 using SchemeServe.Provider.Api.Application.Models;
-using SchemeServe.Provider.Api.Application.Queries;
 using SchemeServe.Provider.Api.Domain.Models;
 using SchemeServe.Provider.Api.Infrastructure.Services.Cqc;
 

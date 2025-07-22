@@ -1,5 +1,4 @@
 ﻿using SchemeServe.Provider.Api.Application.Models;
-using SchemeServe.Provider.Api.Application.Queries;
 using SchemeServe.Provider.Api.Domain.Models;
 
 namespace SchemeServe.Provider.Api.Application.Interfaces;
